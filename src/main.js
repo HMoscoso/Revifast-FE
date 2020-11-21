@@ -7,7 +7,7 @@ import axios from 'axios';
 import VueGtag from "vue-gtag";
 
 Vue.use(VueGtag, {
-  config: { id: "253774901" }
+  config: { id: "2171541758" }
 });
 
 
