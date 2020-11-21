@@ -52,6 +52,8 @@ export default {
     FAQ,
     Registrar,
   },
+  
+
 
     data(){
         return{
