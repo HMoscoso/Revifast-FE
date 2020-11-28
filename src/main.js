@@ -12,7 +12,7 @@ Vue.use(VueGtag, {
 
 
 Vue.config.productionTip = false
-axios.defaults.baseURL='http://localhost:54043/'
+axios.defaults.baseURL='https://revifastapi2020isw.azurewebsites.net/'
 
 new Vue({
   router,
